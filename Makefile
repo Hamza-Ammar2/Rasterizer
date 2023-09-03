@@ -1,0 +1,2 @@
+all:
+	C:\mingw64\bin\gcc.exe -fdiagnostics-color=always -g "C:\Users\AL Arab\Desktop\rasterizer\src\*.c" -I C:/SDL2-w64/include -I "C:\Users\AL Arab\Desktop\rasterizer\include" -L C:/SDL2-w64/lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -o "C:\Users\AL Arab\Desktop\rasterizer\main.exe" && start .\main

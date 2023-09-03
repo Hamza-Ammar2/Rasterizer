@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "math.h": "c",
+        "perspective.h": "c"
+    }
+}
